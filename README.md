@@ -8,13 +8,9 @@ The code folder is organized as follows in the Bayesian-GANS folder:
 Bayesian-GANS:
 
 | bgan.py
-
 | download_dataset.py
-
 | Opt.py
-
 | Readme.md
-
 | requirements.txt
 
 ## Prerequisite
