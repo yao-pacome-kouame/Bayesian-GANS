@@ -24,9 +24,11 @@ To replicate the results you will need the following modules :
 
 To install them we recommend you to use the file requirements.txt which is in this folder by doing from a Terminal or a Command Prompt:
 
-cd BayesianProject_BGAN
+- clone or download this repositorie names Bayesian-GANS
 
-pip install -r requirements.txt
+- move to this folder : cd BayesianProject_BGAN
+
+- install all packges : pip install -r requirements.txt
 
 ## Run
 To replicate the results run the script as follows from a Terminal or a Command Prompt:
