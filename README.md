@@ -3,13 +3,18 @@
 This project proposes a Pytorch implementation of the [Bayesian GAN](https://arxiv.org/abs/1705.09558) presentend by Wilson et al. at NeurIPS 2017.
 
 ## Project tree
-Le dossier de code est organisé de la manière suivante dans le dossier BayesianProject_BGAN :
+The code folder is organized as follows in the Bayesian-GANS folder:
 
-BayesianProject_BGAN:
+Bayesian-GANS:
+
 | bgan.py
+
 | download_dataset.py
+
 | Opt.py
+
 | Readme.md
+
 | requirements.txt
 
 ## Prerequisite
@@ -28,7 +33,9 @@ pip install -r requirements.txt
 
 ## Run
 To replicate the results run the script as follows from a Terminal or a Command Prompt:
+
 - For execute Bayesian GAN : python bgan.py mnist normal SGHMC 1
+
 - For execute classical Deep Convolutionnal GAN : python bgan.py mnist normal SGHMC 0
 
 ## Nota
