@@ -3,10 +3,9 @@
 This project proposes a Pytorch implementation of the [Bayesian GAN](https://arxiv.org/abs/1705.09558) presentend by Wilson et al. at NeurIPS 2017.
 
 ## Project tree
-The code folder is organized as follows in the Bayesian-GANS folder:
+The code folder is organized as follows :
 
 Bayesian-GANS:
-
 - bgan.py
 - download_dataset.py
 - Opt.py
