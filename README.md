@@ -23,7 +23,9 @@ To replicate the results you will need the following modules :
 - gdown
 
 To install them we recommend you to use the file requirements.txt which is in this folder by doing from a Terminal or a Command Prompt:
+
 cd BayesianProject_BGAN
+
 pip install -r requirements.txt
 
 ## Run
