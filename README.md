@@ -26,9 +26,9 @@ To install them we recommend you to use the file requirements.txt which is in th
 
 - clone or download this repositorie names Bayesian-GANS
 
-- move to this folder : cd BayesianProject_BGAN
+- move to this folder : cd Bayesian-GANS
 
-- install all packges : pip install -r requirements.txt
+- install all packages : pip install -r requirements.txt
 
 ## Run
 To replicate the results run the script as follows from a Terminal or a Command Prompt:
@@ -39,4 +39,4 @@ To replicate the results run the script as follows from a Terminal or a Command 
 
 ## Nota
 
-It is important to keep in mind that the training takes a lot of time and that a computer with GPU-CUDA is required for time optimisation. Else, to make sure that the user can execute the code in a reasonable time on CPU, we have fixed the number of epochs to train the network to 30 while others say that it is from 350 epochs that the generation of images almost correct and not a noise. You can change this number in the script bgan.py at line 41.
+It is important to keep in mind that the training takes a lot of time and that a computer with GPU-CUDA is required for time optimisation. Else, to make sure that the user can execute the code in a reasonable time on CPU, we have fixed the number of epochs to train the network to 30 while authors say that it is from 350 epochs that the generation of images almost correct and not a noise. You can change this number in the script bgan.py at line 41.
